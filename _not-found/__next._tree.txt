@@ -1,4 +1,4 @@
-:HL["/curious-farm-demo/_next/static/chunks/0iqiou4dxrqu8.css","style"]
+:HL["/curious-farm-demo/_next/static/chunks/0ckax4-7bzxgr.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"N8ylSfJNQHQu2UW9PTjhy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"tWXpuFDnDRhCtU1y8Qaco","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
